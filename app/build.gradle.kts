@@ -43,6 +43,7 @@ dependencies {
 
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.9.0")
     implementation("androidx.navigation:navigation-compose:2.7.4")
+    implementation("com.google.android.gms:play-services-location:21.0.1")
 
     implementation("com.google.android.gms:play-services-location:21.0.1")
     implementation("com.google.maps.android:maps-compose:2.15.0")
